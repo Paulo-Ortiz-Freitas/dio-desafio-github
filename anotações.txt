@@ -1,0 +1,3 @@
+Anotações git e github
+
+git add. - Adiciona todos arquivos ao repositório.
