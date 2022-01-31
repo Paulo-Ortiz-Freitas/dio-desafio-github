@@ -1,3 +1,5 @@
 Anotações git e github
 
-git add. - Adiciona todos arquivos ao repositório.
+git add . - Adiciona todos arquivos ao repositório local.
+git commit -m "inclusão das anotações do curso git/github
+git push origin main
